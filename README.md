@@ -1,8 +1,20 @@
 # node-todo-list
 
-//desc
+## Description
 
-//run
+to-do list project with Node.js and Express
+
+## Run
+
+```sh
+npm install 
+```
+
+```sh
+node app.js
+```
+
+
 
 
 ## screenshot
